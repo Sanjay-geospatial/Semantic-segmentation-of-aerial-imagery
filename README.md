@@ -1,4 +1,5 @@
 # Semantic Segmentation of Aerial Imagery using U-Net with ResNet Backbone
+![Semantic Segmentation Banner](https://example.com/your-image.jpg)
 
 This project focuses on semantic segmentation of aerial imagery into six land cover classes using a U-Net architecture with a ResNet encoder backbone.
 
