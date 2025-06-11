@@ -29,6 +29,12 @@ We use a U-Net model with a ResNet-based encoder to achieve high accuracy and sp
 - **Format**: RGB aerial imagery with corresponding pixel-wise masks
 - **Classes**: 6 (as listed above)
 
+## 📊 Results
+- **Accuracy**: 0.87
+- **Jacard coefficient**: 0.75
+- **MeanIOU**: 0.61
+
+
 ## 🛠️ Setup
 
 ### Requirements
